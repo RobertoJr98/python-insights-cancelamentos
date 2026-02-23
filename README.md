@@ -1,6 +1,51 @@
-# Python Insights — Análise de Cancelamentos
+# 📊 Python Insights - Análise de Cancelamentos
 
-Projeto de estudo (versão inicial) usando **Python + Pandas** para analisar uma base de cancelamentos de clientes e gerar insights.
+Projeto de estudo focado em Análise Exploratória de Dados (EDA) utilizando Python para extração de insights a partir de um dataset de cancelamentos.
+
+---
+
+## 🎯 Objetivo
+
+Identificar padrões e possíveis causas de cancelamentos por meio de análise de dados, apoiando a tomada de decisão baseada em evidências.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- Python  
+- Pandas  
+- Jupyter Notebook  
+
+---
+
+## 📂 Dataset
+
+O projeto utiliza um dataset contendo informações relacionadas a cancelamentos, permitindo análises exploratórias e identificação de padrões relevantes.
+
+---
+
+## 📈 O que foi feito
+
+- Importação e leitura do dataset
+- Tratamento e limpeza de dados
+- Análise exploratória
+- Identificação de padrões iniciais
+- Geração de insights estratégicos
+
+---
+
+## 🚀 Próximos Passos
+
+- Implementar visualizações com Matplotlib e Seaborn
+- Criar dashboard interativo
+- Aplicar modelo preditivo para previsão de cancelamentos
+- Estruturar o projeto como aplicação web simples
+
+---
+
+## 📌 Sobre o Projeto
+
+Este projeto faz parte da minha jornada de evolução em análise de dados e desenvolvimento com Python, com foco em construir soluções práticas e orientadas a dados.
 
 ## Como rodar
 
