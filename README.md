@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-EDA-yellow)
+![Status](https://img.shields.io/badge/Status-Estudo%20Inicial-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # 📊 Python Insights - Análise de Cancelamentos
 
 Projeto de estudo focado em Análise Exploratória de Dados (EDA) utilizando Python para extração de insights a partir de um dataset de cancelamentos.
@@ -49,7 +54,12 @@ Este projeto faz parte da minha jornada de evolução em análise de dados e des
 
 ## Como rodar
 
-1. Crie um ambiente virtual (opcional, recomendado):
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/RobertoJr98/python-insights-cancelamentos.git
+   cd python-insights-cancelamentos
+
+2. Crie um ambiente virtual (opcional, recomendado):
 ```bash
 python -m venv .venv
 # Windows
@@ -58,12 +68,12 @@ python -m venv .venv
 source .venv/bin/activate
 ```
 
-2. Instale as dependências:
+3. Instale as dependências:
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Abra o notebook:
+4. Abra o notebook:
 ```bash
 jupyter notebook
 ```
